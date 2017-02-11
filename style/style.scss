@@ -1,5 +1,7 @@
 // Global Styles
-
+html{
+    margin: -0.5%;
+}
 
 // Navbar Styles
 navbar{
@@ -8,7 +10,7 @@ navbar{
     align-content: space-around;
     padding: 0 5%;
     background: #fff;
-    padding-top: 5%;
+    padding-top: 3%;
 
     #leftBanner{
         display: inline-flex;
