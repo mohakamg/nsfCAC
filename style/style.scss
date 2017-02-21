@@ -57,7 +57,7 @@ navbar{
 // Banner Styles
 
 #banner{
-    background-image: /*url("../img/overlay.png"),*/url("../img/back3.png");
+    background-image: /*url("../img/overlay.png"),*/url("../img/back.png");
     background-size: cover;
     align-items: center;
     display: flex;
@@ -112,7 +112,7 @@ navbar{
     }
     
     p{
-       font-family: 'Amatic SC', cursive; 
+       font-family: 'PT Sans', sans-serif;
         font-size: 1.4em;
         font-weight: bold;
     }
