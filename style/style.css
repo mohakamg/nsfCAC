@@ -175,12 +175,10 @@ navbar #navbarLinks a:hover {
 #meetings{
 	height: 100%;
 	padding-bottom: 100%;
-	
-	color: white;
+	margin-top: 5%;
 }
 
 #meetBody{
-	background: #015CB5;
 }
 #nv{
 	border-bottom: 5px solid #2E7FCE;
