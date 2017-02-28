@@ -43,7 +43,7 @@ navbar #navbarLinks a:hover {
 }
 
 #banner {
-  background-image: url("../img/back.png");
+  background-image: url("../img/back3.png");
   background-size: cover;
   align-items: center;
   display: flex;
@@ -172,3 +172,17 @@ navbar #navbarLinks a:hover {
 }
 
 /*# sourceMappingURL=style.css.map */
+#meetings{
+	height: 100%;
+	padding-bottom: 100%;
+	
+	color: white;
+}
+
+#meetBody{
+	background: #015CB5;
+}
+#nv{
+	border-bottom: 5px solid #2E7FCE;
+	padding: 0.5% 5%;
+}
